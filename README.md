@@ -1,7 +1,39 @@
 ### Hi there 👋
 
+## I am a software developer/business building architech 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Driftay&theme=dracula&show_icons=true)
+###Languages I Use
+- Java
+- C#
+- C++/C
+- x86_64 Assembly
+- Lua
+- Python
+- PHP
+- CS3
+- Ruby
+- HTML
+
+###Skill-Sets
+- Maven
+- Windows
+- Linux
+- Adminstration
+- Configuration
+- MySQL
+- Redis
+- MongoDB
+- Direct
+- Deployment
+- Docker
+
+###Contact
+Feel free to contact me at any of the following locations
+- Discord: Driftay#6105
+- Saber Developments Discord: discord.saber.pw
+- Email: business@saber.pw
+
+![Driftay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Driftay&theme=dracula&show_icons=true)
 <!--
 **Driftay/driftay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
