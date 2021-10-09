@@ -2,7 +2,7 @@
 
 ## I am a software developer/business building architech 
 
-###Languages I Use
+### Languages I Use
 - Java
 - C#
 - C++/C
@@ -14,7 +14,7 @@
 - Ruby
 - HTML
 
-###Skill-Sets
+### Skill-Sets
 - Maven
 - Windows
 - Linux
@@ -27,7 +27,7 @@
 - Deployment
 - Docker
 
-###Contact
+### Contact
 Feel free to contact me at any of the following locations
 - Discord: Driftay#6105
 - Saber Developments Discord: discord.saber.pw
