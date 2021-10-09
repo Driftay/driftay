@@ -30,7 +30,7 @@
 ### Contact
 Feel free to contact me at any of the following locations
 - Discord: Driftay#6105
-- Saber Developments Discord: [discord.saber.pw]
+- Saber Developments Discord: [Discord] (discord.saber.pw)
 - Email: business@saber.pw
 
 ![Driftay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Driftay&orgs=saberllc&theme=dracula&show_icons=true&count_private=true)
