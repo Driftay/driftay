@@ -34,7 +34,6 @@ Feel free to contact me at any of the following locations
 - Email: business@saber.pw
 
 ![Driftay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Driftay&orgs=saberllc&theme=dracula&show_icons=true&count_private=true)
-![Saber Development's GitHub stats](https://github-readme-stats.vercel.app/api?orgs=saberllc&theme=dracula&show_icons=true)
 
 <!--
 **Driftay/driftay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
