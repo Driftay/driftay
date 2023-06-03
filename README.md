@@ -30,10 +30,10 @@
 ### Contact
 Feel free to contact me at any of the following locations
 - Discord: Driftay#6105
-- Saber Developments Discord: [Click Here](discord.saber.pw)
+- Saber Developments Discord: [Click Here](discord.gg/saber)
 - Email: business@saberdev.org
 
-![Driftay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Driftay&orgs=saberllc&theme=dracula&show_icons=true&count_private=true)
+![Driftay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Driftay&orgs=saberllc&theme=dracula&show_icons=true&count_private=false)
 
 <!--
 **Driftay/driftay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
